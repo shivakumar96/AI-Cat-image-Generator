@@ -1,0 +1,1 @@
+The GAN model and the weights will be saved here.
