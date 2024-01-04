@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 .DS_Store
+data/cat_data.csv
+data/dog_data.csv
